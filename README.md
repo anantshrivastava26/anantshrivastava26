@@ -68,7 +68,7 @@
 </p>
 
 ---
-
+<!--
 <h3>🔥 GitHub Contribution Streak</h3>
 
 <p align="center">
@@ -77,4 +77,4 @@
 
 ---
 
-<!-- Quote removed as per preference -->
+-->
