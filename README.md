@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=anantshrivastava26&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
