@@ -24,7 +24,6 @@
 </p>
 
 - 👨‍💻 I’m currently working on ML, Dockerizing models & deploying them using AWS  
-- 💬 Ask me about anything related to DevOps, FastAPI, Docker, GitHub Actions, or ML deployment  
 - 📫 How to reach me: **shrivastava4726@gmail.com**
 
 ---
