@@ -52,7 +52,7 @@
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
 </p>
 
 ---
