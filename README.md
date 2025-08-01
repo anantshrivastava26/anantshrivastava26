@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTh3M3E1N2VjdDkwcWtlMTZxbWI4eTN5MmticTV2dHBreGwzZXUxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" />
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=anantshrivastava26&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -68,6 +68,8 @@
 </p>
 
 ---
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTh3M3E1N2VjdDkwcWtlMTZxbWI4eTN5MmticTV2dHBreGwzZXUxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" />
+
 <!--
 <h3>🔥 GitHub Contribution Streak</h3>
 
