@@ -54,29 +54,3 @@
   <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
 </p>
-
----
-
-<h3>📊 GitHub Stats</h3>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anantshrivastava26&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  [![Anant's GitHub stats](https://github-readme-stats.vercel.app/api?username=anantshrivastava26)](https://github.com/anantshrivastava26/github-readme-stats)
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anantshrivastava26&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
-<!--
-<h3>🔥 GitHub Contribution Streak</h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anantshrivastava26&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
--->
