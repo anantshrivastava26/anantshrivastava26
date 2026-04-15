@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Anant Shrivastava</h1>
+<h1 align="center">Hey! This is Anant Shrivastava</h1>
 
 <h3 align="center">🚀 DevOps | Cloud | Machine Learning Enthusiast</h3>
 
@@ -29,7 +29,7 @@
   - ML Model Deployment (FastAPI + Docker + AWS ECS)
   - Scalable backend systems & microservices  
 - 🌱 Learning:
-  - Kubernetes, GitOps (ArgoCD), Terraform  
+  - Kubernetes, GitOps (ArgoCD), Terraform , Ansible, Jenkins
   - System Design & Cloud Architecture  
 
 ---
@@ -67,6 +67,4 @@
 
 ---
 
-## ⚡ Fun Fact
-
-I don’t just build projects — I design systems that scale 🚀
+## ⚡ Building Projects that Scale!
